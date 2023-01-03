@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Borislav and my craft is creating IT Systems
 
 <!--
 - 🔭 I’m currently working on ...
