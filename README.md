@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Borislav and my craft is creating IT Systems
+### Hi there 👋 I'm Borislav and I'm a software craftsman
+
 
 <!--
 - 🔭 I’m currently working on ...
