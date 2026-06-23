@@ -1,5 +1,11 @@
 ### Hi there 👋 I'm Borislav and I'm a software craftsman
 
+I've been a Developer, Architect and CTO mainly in the highly-regulated FinTech and InsTech sectors.
+
+I focus on providing business value and solving technical and organizational challenges.
+
+I'm passionate about building teams, businesses, mentoring team members, finding solutions and creating software that drives business growth.
+One of the most important things for me has always been fostering the growth, team spirit and independence of the people I work with. I firmly believe that an organization is only as strong as the ability of its team members to evolve and innovate consistently over time.
 
 <!--
 - 🔭 I’m currently working on ...
