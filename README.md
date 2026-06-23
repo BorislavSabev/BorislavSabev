@@ -9,7 +9,9 @@ One of the most important things for me has always been fostering the growth, te
 
 Find me over at:
 [💼 LinkedIn](https://www.linkedin.com/in/borkata/)
+
 [🐙 GitHub](https://github.com/BorislavSabev)
+
 [✉️ Email](mailto:me@borkata.com)
 
 <!--
