@@ -7,13 +7,7 @@ I strive to provide business value and solve technical and organizational challe
 I'm passionate about building teams, businesses, mentoring team members, finding solutions and creating software that drives business growth.
 One of the most important things for me has always been fostering the growth, team spirit and independence of the people I work with. I firmly believe that an organization is only as strong as the ability of its team members to evolve and innovate consistently over time.
 
-Find me over at:
-
-[💼 LinkedIn](https://www.linkedin.com/in/borkata/)
-
-[🐙 GitHub](https://github.com/BorislavSabev)
-
-[✉️ Email](mailto:me@borkata.com)
+Find me [💼 over there at LinkedIn](https://www.linkedin.com/in/borkata/) or [🐙 here on GitHub](https://github.com/BorislavSabev) or just shoot me an email at: [✉️ me@borkata.com](mailto:me@borkata.com)
 
 <!--
 - 🔭 I’m currently working on ...
