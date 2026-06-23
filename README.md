@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Borislav and I'm a software craftsman
 
-I'm a CTO focusing in the highly-regulated FinTech and InsTech sectors.
+I'm a CTO in the highly-regulated FinTech and InsTech sectors.
 
 I focus on providing business value and solving technical and organizational challenges.
 
