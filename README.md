@@ -1,11 +1,16 @@
-### Hi there 👋 I'm Borislav and I'm a software craftsman
+### Hi there 👋 I'm Borkata and I'm a software craftsman
 
 I'm a CTO in the highly-regulated FinTech and InsTech sectors.
 
-I focus on providing business value and solving technical and organizational challenges.
+I strive to provide business value and solve technical and organizational challenges. I live and breathe at the intersection of the technology, product and marketing teams bringing them all together in order to achieve business goals.
 
 I'm passionate about building teams, businesses, mentoring team members, finding solutions and creating software that drives business growth.
 One of the most important things for me has always been fostering the growth, team spirit and independence of the people I work with. I firmly believe that an organization is only as strong as the ability of its team members to evolve and innovate consistently over time.
+
+Find me over at:
+[💼 LinkedIn](https://www.linkedin.com/in/borkata/)
+[🐙 GitHub](https://github.com/BorislavSabev)
+[✉️ Email](mailto:me@borkata.com)
 
 <!--
 - 🔭 I’m currently working on ...
